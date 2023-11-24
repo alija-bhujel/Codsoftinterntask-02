@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83574406727",
+    "project_id": "todooapp-e662e",
+    "storage_bucket": "todooapp-e662e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83574406727:android:c5da26e43516d6d2323b62",
+        "android_client_info": {
+          "package_name": "com.example.todooapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8DV0LhEcR74NKQCeN0LNMpw-hInNwWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
